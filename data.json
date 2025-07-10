@@ -1,1 +1,39 @@
 
+{
+    "serverVersion": "1.0.0",
+    "appVersion": "1.0",
+    "status": true,
+    "announcement": "New update available",
+    "games": [
+        {
+            "displayName": "Global",
+            "packageName": "com.tencent.ig",
+            "fileName": "libSagar.so",
+            "fileVersion": "1.1"
+        },
+        {
+            "displayName": "Korea",
+            "packageName": "com.pubg.krmobile",
+            "fileName": "libSagar.so",
+            "fileVersion": "1.0.0"
+        },
+        {
+            "displayName": "Taiwan",
+            "packageName": "com.rekoo.pubgm",
+            "fileName": "libSagar.so",
+            "fileVersion": "1.0"
+        },
+        {
+            "displayName": "Vietnam",
+            "packageName": "com.vng.pubgmobile",
+            "fileName": "libSagar.so",
+            "fileVersion": "1.0"
+        },
+        {
+            "displayName": "Bgmi",
+            "packageName": "com.pubg.imobile",
+            "fileName": "libBgmi.so",
+            "fileVersion": "1.0"
+        }
+    ]
+}
